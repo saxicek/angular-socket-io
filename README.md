@@ -32,7 +32,7 @@ factory('mySocket', function (socketFactory) {
 ```
 
 With that, you can inject your `mySocket` service into controllers and
-other serivices within your application!
+other services within your application!
 
 ### Using Your Socket Instance
 
